@@ -6,4 +6,4 @@ The Presentation is accesable also here: https://www.canva.com/design/DAFAeiht17
 
 The Dataset was provieded by Maven Analytics: https://www.mavenanalytics.io/data-playground?search=Airbag 
 
-
+[airbnb.png](https://postimg.cc/QBNYqRnj)
